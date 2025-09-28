@@ -1,0 +1,6 @@
+@LAB06_Cesar_HostAddress = http://localhost:5096
+
+GET {{LAB06_Cesar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
