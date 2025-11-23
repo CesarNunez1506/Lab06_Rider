@@ -7,6 +7,7 @@ using Microsoft.OpenApi.Models;
 using LAB06_Cesar.Repositories;
 using LAB06_Cesar.Repositories.Interface;
 using LAB06_Cesar.Services;
+using LAB06_Cesar.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -96,6 +97,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseMiddleware<ParameterValidationMiddleware>(); // Registrar el middleware de validación de parámetros
+    
+app.UseRouting();
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
 
 app.UseHttpsRedirection();
 app.UseAuthentication();

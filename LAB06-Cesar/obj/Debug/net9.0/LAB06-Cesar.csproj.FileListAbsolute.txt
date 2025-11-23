@@ -141,3 +141,5 @@ C:\Users\Cesar\RiderProjects\LAB06-Cesar\LAB06-Cesar\obj\Debug\net9.0\LAB06-Cesa
 C:\Users\Cesar\RiderProjects\LAB06-Cesar\LAB06-Cesar\obj\Debug\net9.0\LAB06-Cesar.pdb
 C:\Users\Cesar\RiderProjects\LAB06-Cesar\LAB06-Cesar\obj\Debug\net9.0\LAB06-Cesar.genruntimeconfig.cache
 C:\Users\Cesar\RiderProjects\LAB06-Cesar\LAB06-Cesar\obj\Debug\net9.0\ref\LAB06-Cesar.dll
+C:\Users\Cesar\RiderProjects\LAB06-Cesar\LAB06-Cesar\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Cesar\RiderProjects\LAB06-Cesar\LAB06-Cesar\obj\Debug\net9.0\LAB06-Cesar.sourcelink.json

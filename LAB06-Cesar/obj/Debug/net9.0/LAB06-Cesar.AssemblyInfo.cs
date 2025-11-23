@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LAB06-Cesar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b045c7a419a6eb4ae7fe8e89610f634a6face917")]
 [assembly: System.Reflection.AssemblyProductAttribute("LAB06-Cesar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LAB06-Cesar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
